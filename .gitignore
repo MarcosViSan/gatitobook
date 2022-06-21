@@ -2,3 +2,5 @@
 .angular/
 # Arquivos do vscode
 .vscode/
+# Arquivos do node
+node_modules/
